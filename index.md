@@ -2,19 +2,20 @@
 
 This article provides a quick introduction to Restricted Boltzmann Machines. All of the work presented here can be found elsewhere. The purpose of the article is to aggregate all the necessary math and present in the form of a quick refresher. 
 
+##Introduction
+A Restricted Boltzmann Machine (RBM) is an undirected graph consisting of m visible units $\b V$
 
-<img src="https://latex.codecogs.com/gif.latex?\mathcal{W}(A,f)&space;=&space;(T,\bar{f})" title="\mathcal{W}(A,f) = (T,\bar{f})" />
 
 
 You can use the [editor on GitHub](https://github.com/apb210/RBM.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 <!---
-:### Markdown
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[\]:```markdown
+```markdown
 Syntax highlighted code block
 
 # Header 1
