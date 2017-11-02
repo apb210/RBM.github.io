@@ -1,5 +1,8 @@
 ## A brief refresher on Restricted Boltzmann Machines
 
+This article provides a quick introduction to Restricted Boltzmann Machines. All of the work presented here can be found elsewhere. The purpose of the article is to aggregate all the necessary math and present in the form of a quick refresher. 
+
+
 <img src="https://latex.codecogs.com/gif.latex?\mathcal{W}(A,f)&space;=&space;(T,\bar{f})" title="\mathcal{W}(A,f) = (T,\bar{f})" />
 
 
