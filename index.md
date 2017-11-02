@@ -1,6 +1,6 @@
 ## A brief refresher on Restricted Boltzmann Machines
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{W}(A,f)&space;=&space;(T,\bar{f})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal{W}
+[Image] <a href="https://www.codecogs.com/eqnedit.php?latex=\mathcal{W}(A,f)&space;=&space;(T,\bar{f})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\mathcal{W}
 
 
 You can use the [editor on GitHub](https://github.com/apb210/RBM.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
