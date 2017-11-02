@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A brief refresher on Restricted Boltzmann Machines
 
 You can use the [editor on GitHub](https://github.com/apb210/RBM.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
