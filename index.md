@@ -3,7 +3,7 @@
 This article provides a quick introduction to Restricted Boltzmann Machines. All of the work presented here can be found elsewhere. The purpose of the article is to aggregate all the necessary math and present in the form of a quick refresher. 
 
 ## Introduction
-A Restricted Boltzmann Machine (RBM) is an undirected graph consisting of m visible units $b$
+A Restricted Boltzmann Machine (RBM) is an undirected graph consisting of m visible units [\\ a^2 + b^2 = c^2 \\]
 
 
 
